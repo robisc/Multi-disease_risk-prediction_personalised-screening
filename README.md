@@ -44,6 +44,6 @@ and run the training pipeline using
 python run_mock_pipeline.py
 ```
 
-Creating the venv, the mock data and training the pipeline should not take longer than 15 minutes. The results will be random though, as the mock data is just randomly generated.
+Creating the venv, the mock data and training the pipeline should not take longer than 15 minutes (including installation of all requirements). The results will be random though, as the mock data is just randomly generated.
 
 As we transferred the code from our Jupyter Notebooks to these scripts, we cannot guarantee that outcomes will be identical to our original code. In case of questions please reach out to rafael.oexner@kcl.ac.uk .
